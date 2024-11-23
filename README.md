@@ -16,4 +16,6 @@ This Ansible playbook is designed to handle errors gracefully while managing sys
 
 ---
 
-Use the command `ansible-playbook -i inventory.ini main.yml` to run the playbook.
+Use the command to run the playbook:
+```bash
+ansible-playbook -i inventory.ini main.yml
